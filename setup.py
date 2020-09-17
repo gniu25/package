@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="thesaurus_test",
-    version="1.0",
+    version="0.0.1",
     url="https://github.com/gniu25/package",
     license='MIT',
 
