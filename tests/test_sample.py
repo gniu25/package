@@ -1,5 +1,5 @@
 # Sample Test passing with nose and pytest
-from .context import MyClass
+from tests.context import MyClass
 
 def test_pass():
     assert True, "dummy sample test"
