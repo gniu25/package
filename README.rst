@@ -2,7 +2,7 @@ thesaurus_test
 ==============
 
 .. image:: https://img.shields.io/pypi/v/thesaurus_test.svg
-    :target: https://pypi.python.org/pypi/ansicolortags/
+    :target: https://pypi.python.org/pypi/thesaurus_test/
     :alt: Latest PyPI version
  
 
