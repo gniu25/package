@@ -5,4 +5,4 @@ class MyClass(object):
         self.logger = logging.getLogger(__name__)
         self.logger.info("package initialized")
     def get_5(self):
-    return 5
+        return 5
